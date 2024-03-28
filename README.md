@@ -1,8 +1,8 @@
-### Hi there 🥖
+## Hi there 🥖
 
 Dionne here, welcome to my repository!
 
-## About me ✨
+### About me ✨
 
 - 📖 Sophomore at National University of Singapore (NUS), majoring in Business Analytics
 - 🥖 currently learning french
@@ -11,7 +11,7 @@ Dionne here, welcome to my repository!
 
 
 
-## Contact me 📱
+### Contact me 📱
 - 📧 Email: [dionne.leow@u.nus.edu](mailto:dionne.leow@u.nus.edu)
 - 💼 LinkedIn: [linkedin.com/in/dionne-leow-yx](https://www.linkedin.com/in/dionne-leow-yx/)
 
