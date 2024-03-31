@@ -1,4 +1,4 @@
-## Hi there 🥖
+## Hi there 🌤️
 
 Dionne here, welcome to my repository!
 
