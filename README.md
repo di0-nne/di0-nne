@@ -1,11 +1,11 @@
-## Hi there 🌤️
+## Hi there 👋🏻
 
 Dionne here, welcome to my repository!
 
 ### About me ✨
 
-- 📖 Sophomore at National University of Singapore (NUS), majoring in Business Analytics
-- 💼 Currently doing my summer internship
+- 📖 Penultimate at National University of Singapore (NUS), majoring in Business Analytics
+- 🌤️ Currently exchanging at University of California, San Diego
 - 🌊 I love anything to do with the ocean, or the sun
 - 🏄🏻‍♀️ Trying out new activities are what excites me! 
 
