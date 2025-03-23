@@ -5,7 +5,7 @@ Dionne here, welcome to my repository!
 ### About me ✨
 
 - 📖 Penultimate at National University of Singapore (NUS), majoring in Business Analytics
-- 🌤️ Currently exchanging at University of California, San Diego
+- 🌤️ Currently interning at GIC as a full stack developer
 - 🌊 I love anything to do with the ocean, or the sun
 - 🏄🏻‍♀️ Trying out new activities are what excites me! 
 
