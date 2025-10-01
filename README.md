@@ -8,7 +8,7 @@ Dionne here, welcome to my repository!
 - 🌊 I am experienced with software engineering, ranging from data engineering, full stack web development, to E2E testing!
 - 🏄🏻‍♀️ Picking up new skills and working on different projects are what excites me! 
 
-## Find out more information about me 🔎
+### Find out more information about me 🔎
 - 💻 Website: [portfolio link](https://portfolio-website-di0-nnes-projects.vercel.app/)
 
 
