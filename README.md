@@ -4,11 +4,12 @@ Dionne here, welcome to my repository!
 
 ### About me ✨
 
-- 📖 Penultimate at National University of Singapore (NUS), majoring in Business Analytics
-- 🌤️ Currently interning at GIC as a full stack developer
-- 🌊 I love anything to do with the ocean, or the sun
-- 🏄🏻‍♀️ Trying out new activities are what excites me! 
+- 📖 Final Year at National University of Singapore (NUS), majoring in Business Analytics
+- 🌊 I am experienced with software engineering, ranging from data engineering, full stack web development, to E2E testing!
+- 🏄🏻‍♀️ Picking up new skills and working on different projects are what excites me! 
 
+## Find out more information about me 🔎
+- 💻 Website: [portfolio link](https://portfolio-website-di0-nnes-projects.vercel.app/)
 
 
 ### Contact me 📱
