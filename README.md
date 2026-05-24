@@ -5,7 +5,7 @@ Dionne here, welcome to my repository!
 ### About me ✨
 
 - 📖 Final Year at National University of Singapore (NUS), majoring in Business Analytics
-- 🌊 I am experienced with software engineering, ranging from data engineering, full stack web development, to E2E testing!
+- 🌊 I have experience in software engineering, ranging from data engineering, full stack web development, to E2E testing!
 - 🏄🏻‍♀️ Picking up new skills and working on different projects are what excites me! 
 
 ### Find out more information about me 🔎
